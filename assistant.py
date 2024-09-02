@@ -1,4 +1,3 @@
-# Requred modules
 import sys
 import webbrowser
 import pyautogui
